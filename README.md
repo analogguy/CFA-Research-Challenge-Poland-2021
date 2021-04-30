@@ -1,0 +1,2 @@
+# CFA-Research-Challenge-Poland-2021
+Representing the Polish team, we presented fundamental and technical analysis of Allegro’s finances and stock to Allegro representatives at the time of their IPO.
